@@ -4,6 +4,7 @@ Have created a new Instagram Bot using selenium WebDriver in Python. I have adde
 ---> **Works that have been implimented in this repository are: <---
 
 1. Login to your Instagram Handle
+  
   (a)Submit with sample username and password
 2. Type for “food” in search bar and print all the names of the Instagram Handles that are displayed in list after typing “food”. I have avoided printing hashtags for ready to use results.
 3. Searching and Opening a profile using 
